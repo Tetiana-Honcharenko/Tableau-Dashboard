@@ -19,7 +19,4 @@ In diesem Projekt habe ich einen öffentlichen Datensatz mit **Tableau Public** 
 
 ➡️ (https://public.tableau.com/app/profile/tetiana.honcharenko/viz/TestDrive_17390578925850/Test1#1)
 
-## 📁 Projektdateien
 
-- .twbx Datei (optional)
-- Screenshots
